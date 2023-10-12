@@ -64,6 +64,8 @@ Fair odds are $4.4 for the odds.
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
+## Fair Payout
+
 ```{r}
 money=BrLw(28,2,637)
 print(money)
@@ -84,3 +86,4 @@ Overall Mr. Bownlowe would consume a total of 322 in total.
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+In conclusion, Mr. Brownlowe would need to change the number of students and the number of odd to increase his payout.
